@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951996128272",
-    "phone": "+54951996128272",
+    "whatsapp": "https://wa.me/51996128272",
+    "phone": "+51996128272",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "El Márquez",
         "description": "Habitaciones cómodas y buena onda en El Márquez, Perú.",
         "url": "",
-        "telephone": "+54951996128272",
+        "telephone": "+51996128272",
         "email": "",
         "image": "",
         "sameAs": [
